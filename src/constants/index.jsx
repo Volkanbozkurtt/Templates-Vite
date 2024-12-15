@@ -38,24 +38,6 @@ export const testimonials = [
     image: user3,
     text: "Biz mobil app alanında volkan beyden destek almayı tercih ettik. Oldukça başarılı protatipler ve tasarımlar çıkarttı karşımıza. Çalışmalarımıza Volkan ile devam etmekten mutluluk duyuyoruz.",
   },
-  {
-    user: "Ronee Brown",
-    company: "Fusion Dynamics",
-    image: user4,
-    text: "Working with the team at XYZ Company was a game-changer for our project. Their attention to detail and innovative solutions helped us achieve our goals faster than we thought possible. We are grateful for their expertise and professionalism!",
-  },
-  {
-    user: "Michael Wilson",
-    company: "Visionary Creations",
-    image: user5,
-    text: "I am amazed by the level of professionalism and dedication shown by the team. They were able to exceed our expectations and deliver outstanding results.",
-  },
-  {
-    user: "Emily Davis",
-    company: "Synergy Systems",
-    image: user6,
-    text: "The team went above and beyond to ensure our project was a success. Their expertise and dedication are unmatched. I look forward to working with them again in the future.",
-  },
 ];
 
 export const features = [
@@ -99,80 +81,80 @@ export const features = [
 
 export const checklistItems = [
   {
-    title: "Code merge made easy",
+    title: "Hızlandırılmış Kodlar",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Güncellenmiş kodlar ( Sıkıştırılmış ve optimize edilmiş ) ile daha hızlı bir website",
   },
   {
-    title: "Review code without worry",
+    title: "Hızlı İndex",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Sayfa hızınız arttıkça Google sizi daha iyi tanır çünkü Google bot gezinti süresi 1.30 saniyedir.",
   },
   {
-    title: "AI Assistance to reduce time",
+    title: "Özelleştirilmiş Arayüz",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Geliştirilen arayüzlerin ilhamını awwwards.com'da ki ödüllü sitelerden baz alıyoruz.",
   },
   {
-    title: "Share work in minutes",
+    title: "Trafik Kalitesi",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Yenilenmiş ve güncellenmiş bir sitede son kullanıcı daha fazla vakit geçirerek etkileşiminizi arttıracaktır",
   },
 ];
 
 export const pricingOptions = [
   {
-    title: "Free",
-    price: "$0",
+    title: "Seo",
+    price: "$350",
     features: [
-      "Private board sharing",
-      "5 Gb Storage",
-      "Web Analytics",
-      "Private Mode",
+      "3 Aylık Seo",
+      "En çok aranan kelimeler",
+      "Kullanıcının ilgi alanı",
+      "Eksiksiz arama motoru kayıtları",
     ],
   },
   {
     title: "Pro",
-    price: "$10",
+    price: "$1000",
     features: [
-      "Private board sharing",
-      "10 Gb Storage",
-      "Web Analytics (Advance)",
-      "Private Mode",
+      "Web Site Tasarımı",
+      "Dijital Eksiksiz Kayıtlar",
+      "Haritalandırma",
+      "Google ADS Kurulumu",
     ],
   },
   {
-    title: "Enterprise",
-    price: "$200",
+    title: "Yıldız",
+    price: "$2000",
     features: [
-      "Private board sharing",
-      "Unlimited Storage",
-      "High Performance Network",
-      "Private Mode",
+      "Global Web Site",
+      "Seo Optimizasyonu",
+      "Dijital Reklam",
+      "Blog Geliştirme",
     ],
   },
 ];
 
 export const resourcesLinks = [
-  { href: "#", text: "Getting Started" },
-  { href: "#", text: "Documentation" },
-  { href: "#", text: "Tutorials" },
-  { href: "#", text: "API Reference" },
-  { href: "#", text: "Community Forums" },
+  { href: "#", text: "Ayhanlar Holding" },
+  { href: "#", text: "DF Diş Group" },
+  { href: "#", text: "Yalova Terma City" },
+  { href: "#", text: "Ortaşlar Group" },
+  { href: "#", text: "TRT1" },
 ];
 
 export const platformLinks = [
-  { href: "#", text: "Features" },
-  { href: "#", text: "Supported Devices" },
-  { href: "#", text: "System Requirements" },
-  { href: "#", text: "Downloads" },
-  { href: "#", text: "Release Notes" },
+  { href: "#", text: "İnstagram" },
+  { href: "#", text: "X" },
+  { href: "#", text: "GitHub" },
+  { href: "#", text: "LinkEdin" },
+  { href: "#", text: "Meta" },
 ];
 
 export const communityLinks = [
-  { href: "#", text: "Events" },
-  { href: "#", text: "Meetups" },
-  { href: "#", text: "Conferences" },
-  { href: "#", text: "Hackathons" },
-  { href: "#", text: "Jobs" },
+  { href: "#", text: "FabGYM" },
+  { href: "#", text: "BD Karavan Shop" },
+  { href: "#", text: "Qlune" },
+  { href: "#", text: "Ülker Medya" },
+  { href: "#", text: "Portex Shine" },
 ];
